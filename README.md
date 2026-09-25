@@ -17,7 +17,7 @@ Built with an intuitive **Crimson Red & Modern White** dashboard interface, it c
 ## 📸 User Interface Preview
 
 <p align="center">
-  <img src="gui_preview.png" alt="PhishGuard Interface" width="750">
+  <img src="gui.png" alt="PhishGuard Interface" width="750">
 </p>
 
 ---
